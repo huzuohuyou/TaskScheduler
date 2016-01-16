@@ -1,0 +1,14 @@
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\ToolFunction.dll
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\log4net.dll
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\office.dll
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\office.xml
+E:\Github\TaskScheduler\TaskScheduler\bin\Debug\ToolFunction.pdb
+E:\Github\TaskScheduler\TaskScheduler\obj\Debug\ResolveAssemblyReference.cache
+E:\Github\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Form1.resources
+E:\Github\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.Properties.Resources.resources
+E:\Github\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.GenerateResource.Cache
+E:\Github\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+E:\Github\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb

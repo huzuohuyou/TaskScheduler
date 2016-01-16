@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskScheduler", "TaskScheduler\TaskScheduler.csproj", "{94CAE285-0E9D-44AF-B4D8-09770AE4387B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolFunction", "..\DataUpload\ToolFunction\ToolFunction.csproj", "{F26E3EAB-1187-4C91-A41E-2BE3D0FFE4B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CAE285-0E9D-44AF-B4D8-09770AE4387B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CAE285-0E9D-44AF-B4D8-09770AE4387B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CAE285-0E9D-44AF-B4D8-09770AE4387B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CAE285-0E9D-44AF-B4D8-09770AE4387B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F26E3EAB-1187-4C91-A41E-2BE3D0FFE4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26E3EAB-1187-4C91-A41E-2BE3D0FFE4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26E3EAB-1187-4C91-A41E-2BE3D0FFE4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26E3EAB-1187-4C91-A41E-2BE3D0FFE4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
